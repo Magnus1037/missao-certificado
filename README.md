@@ -1,4 +1,4 @@
-Feito apenas por: Carlos Magno; Matrícula: 202208578691
+Feito apenas por: Carlos Magno; Matrícula: 202208578691.
 Bom. Devido a falta de tempo e interesse dos demais alunos interessados do grupo, tive que fazer sózinho
 então peço que perdoe a falta de complexidade do programa...
 
