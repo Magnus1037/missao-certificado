@@ -5,3 +5,5 @@ então peço que perdoe a falta de complexidade do programa...
 
 Para usá-lo deve se apenas baixar o arquivo main.py e abri-lo num terminal qualquer como cmd ou o terminal do Linux.
 os arquivos .json e .csv podem ser baixados para funcionar de exemplo na execução do script
+
+LINK DO VÍDEO: https://youtu.be/dvGmbfbqJow
