@@ -1,4 +1,5 @@
-Feito apenas por: Carlos Magno; Matrícula: 202208578691.
+Feito apenas por: 
+Nome: Carlos Magno Dos Santos Daniel; Matrícula: 202208578691; Estácio; Desenvolvimento Full Stack; Mundo 1; DEV TEAM 21
 Bom. Devido a falta de tempo e interesse dos demais alunos interessados do grupo, tive que fazer sózinho
 então peço que perdoe a falta de complexidade do programa...
 
