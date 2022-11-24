@@ -1,0 +1,47 @@
+[
+ {
+  "id": 8422,
+  "descricao": "Caixa 6x9 Montada 180w Rms",
+  "part_number": "AT00000001",
+  "tamanho_cm": "61 x 23 cm",
+  "tipo": "Eletr\u00f4nico",
+  "material": "MDF e Alum\u00ednio ",
+  "tempo_max": "36h"
+ },
+ {
+  "id": 8039,
+  "descricao": "Kit Microfone Bm800 Condensador",
+  "part_number": "AT00000002",
+  "tamanho_cm": "15cm",
+  "tipo": "Eletr\u00f4nico",
+  "material": "Liga de zinco, alum\u00ednio e a\u00e7o",
+  "tempo_max": "36h"
+ },
+ {
+  "id": 6236,
+  "descricao": "Caixa De Som Coluna Vertical Passivo Sb 2.6 - Sound Box",
+  "part_number": "AT00000003",
+  "tamanho_cm": "20 cm x 28 cm x 55.5 mm",
+  "tipo": "Eletr\u00f4nico",
+  "material": "Pl\u00e1stico e alum\u00ednio ",
+  "tempo_max": "36h"
+ },
+ {
+  "id": 7255,
+  "descricao": "Tela Tel\u00e3o Tecido Lona Proje\u00e7\u00e3o Projetor Datashow Trip\u00e9",
+  "part_number": "AT00000004",
+  "tamanho_cm": "1,80m",
+  "tipo": "Manual",
+  "material": "Lona",
+  "tempo_max": "36h"
+ },
+ {
+  "id": 7192,
+  "descricao": "Projetor T5 Led Espelhamento Celular Wifi 2500 L\u00famens Branco",
+  "part_number": "AT00000005",
+  "tamanho_cm": "25x27cm",
+  "tipo": "Eletr\u00f4nico",
+  "material": "Pl\u00e1stico",
+  "tempo_max": "36h"
+ }
+]
